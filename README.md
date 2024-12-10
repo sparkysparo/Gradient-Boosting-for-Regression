@@ -13,7 +13,15 @@ This tutorial demonstrates how to:
 The approach builds on principles discussed by Friedman (2001), implemented using the Scikit-learn library.
 
 ---
-
+### Prerequisites
+- Python 3.8+
+- Jupyter Notebook
+- Libraries:
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - numpy
+    
 ## Dataset Description
 
 The Boston Housing Dataset contains 506 samples with 13 features and one target variable (`MEDV`, the median value of owner-occupied homes in $1000s). Key features include:

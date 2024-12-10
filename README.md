@@ -30,17 +30,17 @@ pip install -r requirements.txt
 ### Running the Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gradient-boosting-tutorial.git
+   git clone https://github.com/sparkysparo/gradient-boosting-for-regression.git
    ```
 2. Navigate to the `notebooks` folder:
    ```bash
-   cd gradient-boosting-tutorial/notebooks
+   cd gradient-boosting-for-regression/notebooks
    ```
-3. Launch Jupyter Notebook:
+3. Launch Google Colab Notebook:
    ```bash
-   jupyter notebook
+   Google Colab notebook
    ```
-4. Open the `Gradient_Boosting_Main.ipynb` file and follow the instructions.
+4. Open the `Gradient_Boosting_for_Regression_By_Paschal_Uzoegwu.ipynb` file and follow the instructions.
     
 ## Dataset Description
 

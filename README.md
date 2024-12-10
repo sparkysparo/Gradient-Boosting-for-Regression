@@ -19,7 +19,8 @@ The approach builds on principles discussed by Friedman (2001), implemented usin
 - Jupyter Notebook
 - Libraries:
   - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  - matplotlib
+  - [![matplotlib](https://img.shields.io/badge/matplotlib-008080?style=for-the-badge&logoColor=white)](https://matplotlib.org/)
+
   - pandas
   - numpy
 

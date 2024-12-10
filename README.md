@@ -1,4 +1,5 @@
-# Gradient Boosting for Regression[![Gradient Boosting](https://img.shields.io/badge/Gradient--Boosting-Regression--Friendly-blue?style=for-the-badge&logo=codefactor&logoColor=white)](https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting)
+# Gradient Boosting for Regression
+[![Gradient Boosting](https://img.shields.io/badge/Gradient--Boosting-Regression--Friendly-blue?style=for-the-badge&logo=codefactor&logoColor=white)](https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting)
 
 
 ## Introduction

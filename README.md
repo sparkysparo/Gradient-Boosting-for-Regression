@@ -14,7 +14,8 @@ The approach builds on principles discussed by Friedman (2001), implemented usin
 
 ---
 ### Prerequisites
-- Python 3.8+
+- [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 - Jupyter Notebook
 - Libraries:
   - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)

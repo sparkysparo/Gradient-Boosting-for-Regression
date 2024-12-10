@@ -21,6 +21,26 @@ The approach builds on principles discussed by Friedman (2001), implemented usin
   - matplotlib
   - pandas
   - numpy
+
+Install the required libraries using:
+```bash
+pip install -r requirements.txt
+```
+
+### Running the Notebook
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/gradient-boosting-tutorial.git
+   ```
+2. Navigate to the `notebooks` folder:
+   ```bash
+   cd gradient-boosting-tutorial/notebooks
+   ```
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+4. Open the `Gradient_Boosting_Main.ipynb` file and follow the instructions.
     
 ## Dataset Description
 

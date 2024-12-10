@@ -16,13 +16,16 @@ The approach builds on principles discussed by Friedman (2001), implemented usin
 ### Prerequisites
 - [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-- Jupyter Notebook
+- [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+
 - Libraries:
   - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   - [![matplotlib](https://img.shields.io/badge/matplotlib-008080?style=for-the-badge&logoColor=white)](https://matplotlib.org/)
 
-  - pandas
-  - numpy
+  - [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+  - [![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
 
 Install the required libraries using:
 ```bash

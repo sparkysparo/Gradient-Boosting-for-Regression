@@ -1,4 +1,5 @@
-# Gradient Boosting for Regression
+# Gradient Boosting for Regression[![Gradient Boosting](https://img.shields.io/badge/Gradient--Boosting-Regression--Friendly-blue?style=for-the-badge&logo=codefactor&logoColor=white)](https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting)
+
 
 ## Introduction
 
@@ -16,7 +17,8 @@ The approach builds on principles discussed by Friedman (2001), implemented usin
 ### Prerequisites
 - [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-- [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+- [![Google Colab](https://img.shields.io/badge/Google%20Colab-Data%20Science%20Platform-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+
 
 - Libraries:
   - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)

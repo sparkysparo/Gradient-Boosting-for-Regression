@@ -110,11 +110,6 @@ The top three features influencing housing prices:
 
 Gradient Boosting is an effective machine learning technique for regression tasks, offering strong predictive performance and insights into feature importance. Using the Boston Housing Dataset, the model achieved a high R² score, demonstrating its ability to accurately predict housing prices. Key features such as RM, LSTAT, and DIS provide valuable insights into the factors influencing housing prices.The model's performance highlights its capability to predict housing prices effectively.
 
-Recomendation For Future Work:
-1.Comparing Gradient Boosting with other models like Random Forests or Neural Networks.
-2. Exploring hyperparameter optimization techniques for improved performance.
-3. Addressing biases and ethical concerns in the dataset.
-
 ---
 
 ## References

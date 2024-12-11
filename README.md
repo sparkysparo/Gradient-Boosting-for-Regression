@@ -115,7 +115,6 @@ Recomendation For Future Work:
 2. Exploring hyperparameter optimization techniques for improved performance.
 3. Addressing biases and ethical concerns in the dataset.
 
-By following this tutorial, readers will gain a solid understanding of how to apply Gradient Boosting for regression problems. For further details, refer to the foundational work by Friedman (2001) and Pedregosa et al. (2011).
 ---
 
 ## References
